@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+	<head>
+		<title>SS Interiors</tittle>
+		<h1>SS Interiors</h1>
+	</head>
+		
+</html>
